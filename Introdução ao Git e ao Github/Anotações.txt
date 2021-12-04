@@ -1,0 +1,6 @@
+git clone - clona a pasta online no git
+
+link para download do Git: https://gitforwindows.org/
+
+Git Bash é um terminal extendido para otimizar o uso do git
+
